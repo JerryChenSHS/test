@@ -7,7 +7,7 @@
 *.jar
 *.war
 *.ear
-*.ctext
+*.ctxt
 *.class
 package.bluej
 .DS_Store
